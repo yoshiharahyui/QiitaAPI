@@ -1,0 +1,6 @@
+framework module Pods_QiitaAPI_QiitaAPIUITests {
+  umbrella header "Pods-QiitaAPI-QiitaAPIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
